@@ -1,0 +1,12 @@
+config:
+  gcp:project: 
+  gcp:zone: 
+  clusterLocation: 
+  clusterMasterCIDR: 
+  clusterNetwork: 
+  clusterNodeCount: 
+  clusterPodIPCIDR: 
+  clusterSvcIPCIDR: 
+  clusterName: 
+  environment: 
+ 

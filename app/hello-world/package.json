@@ -1,0 +1,15 @@
+{
+    "name": "hello-world",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "16"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "tslib": "^2.5.0",
+        "typescript": "^4.9.5"
+    }
+}

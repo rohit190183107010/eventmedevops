@@ -1,0 +1,7 @@
+config:
+  appNs: 
+  domainHost: 
+  apiService:
+  gcp:project: 
+  envionrment:
+
